@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gargoyles",
+  "name": "Gargoyles",
+  "description": "A mod that adds gargoyles, magic and magical gargoyles.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rex Dark/Lazy Kitty/whatever name I have on whatever forum"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
